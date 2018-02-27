@@ -1,5 +1,7 @@
 # Bug report
 
+Issue: https://github.com/JeffreyWay/laravel-mix/issues/1500
+
 - Laravel Mix Version: 2.0.0 (`npm list --depth=0`)
 - Node Version (`node -v`): v8.9.4
 - NPM Version (`npm -v`): 5.6.0
